@@ -1,0 +1,22 @@
+history 21
+  270  cd Actividades/
+  271  mkdir "Deportes de equipos" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+  272  cd "Deportes de equipos"/
+  273  ..
+  274  cd..
+  275  ../
+  276  cd ..
+  277  touch "Deportes de equipos"/Basquet "Deportes mentales"/Ajedrez.txt "Deportes de mesa"/"ping pong"
+  278  ls -a
+  279  ls
+  280  ls -R
+  281  rm -r "Deportes extremos"/
+  282  pwd
+  283  git init
+  284  git remote add origin https://github.com/renevalenz/INFOpartepractica.git
+  285  git add .
+  286  git commit -m "primer commit"
+  287  git push origin main
+  288  history
+  289  history 50
+  290  history 21
